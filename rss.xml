@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TestWevebsiteDolly]]></title>
         <description><![CDATA[TestWevebsiteDolly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testwevebsitedolly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 20:45:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 20:47:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testwevebsitedolly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>dog sdfg sdfgsfg sag sags</p>]]></description>
+            <link>https://thegrid.ai/testwevebsitedolly/dog-sdfg-sdfgsfg-sag-sags/index.html</link>
+            <guid isPermaLink="false">d6edb5f7-53d7-4baa-b80b-4d5a4b4bcca9</guid>
+            <pubDate>Mon, 30 May 2016 20:47:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f3f7ba8-56a7-4ac7-8736-e9642af05cbc.jpg">]]></description>
-            <link>undefinedhi-i-love-how-this-looks-try-1-2-3/index.html</link>
+            <link>https://thegrid.ai/testwevebsitedolly/hi-i-love-how-this-looks-try-1-2-3/index.html</link>
             <guid isPermaLink="false">7480c63a-f557-439b-8b9d-496d49bc527c</guid>
             <pubDate>Mon, 30 May 2016 20:45:20 GMT</pubDate>
         </item>
